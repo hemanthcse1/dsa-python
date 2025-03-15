@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80f384b0-a913-4522-88bc-5d9237ca08a0" name="Changes" comment="2529. Maximum Count of Positive Integer and Negative Integer">
-      <change afterPath="$PROJECT_DIR$/methods/MethodsExamples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80f384b0-a913-4522-88bc-5d9237ca08a0" name="Changes" comment="2529. Maximum Count of Positive Integer and Negative Integer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +173,7 @@
       <updated>1741782428948</updated>
       <workItem from="1741782430038" duration="2000" />
       <workItem from="1741784149071" duration="11916000" />
-      <workItem from="1742050849087" duration="1895000" />
+      <workItem from="1742050849087" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="2529. Maximum Count of Positive Integer and Negative Integer">
       <option name="closed" value="true" />
@@ -197,7 +194,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="2529. Maximum Count of Positive Integer and Negative Integer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dsa_python$MethodsExamples.coverage" NAME="MethodsExamples Coverage Results" MODIFIED="1742052998209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" />
+    <SUITE FILE_PATH="coverage/dsa_python$MethodsExamples.coverage" NAME="MethodsExamples Coverage Results" MODIFIED="1742053147191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" />
     <SUITE FILE_PATH="coverage/dsa_python$ArraysExample.coverage" NAME="ArraysExample Coverage Results" MODIFIED="1741787019659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arrays" />
     <SUITE FILE_PATH="coverage/dsa_python$Welcome.coverage" NAME="Welcome Coverage Results" MODIFIED="1741784176063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dsa_python$MaximumCountOfPosNeg.coverage" NAME="MaximumCountOfPosNeg Coverage Results" MODIFIED="1741788204534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arrays" />
